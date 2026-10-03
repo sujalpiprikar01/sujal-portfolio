@@ -2,7 +2,7 @@
 
 My personal developer portfolio, built to showcase my projects, skills, and experience as a Frontend / Full Stack Developer.
 
-**Live Site:** [Add your final Vercel URL here]
+**Live Site:** [https://sujal-portfolio-vert.vercel.app/]
 **Resume:** Downloadable directly from the site's header section.
 
 ---
